@@ -27,21 +27,22 @@ Add your subviews to the the view i.e. `addSubview(thumbnailImageView)`
 
 #### 01.Anchors Lab
 
-![img](./Images/AnchorsLab.png)
+<img src="./Images/AnchorsLab.png" width="300">
 
 #### 02.Safe Area Lab
 
-![img](./Images/SafeAreaLab.png)
+<img src="./Images/SafeAreaLab.png" width="300">
 
 #### 03.Margin Guide Lab
 
-![img](./Images/MarginGuide01.png)
-![img](./Images/MarginGuide02.png)
+<img src="./Images/MarginGuide01.png" width="300">
+<img src="./Images/MarginGuide02.png" width="300">
 
 #### 04.Margin Guide Spacer View Lab
 
-![img](./Images/MarginGuideSpaceViewerLab.png)
+<img src="./Images/MarginGuideSpaceViewerLab.png" width="300">
 
 #### 05.Challenge
 
-![img](./Images/BasicAnchorsChallenge.png)
+<img src="./Images/BasicAnchorsChallenge.png" width="300">
+

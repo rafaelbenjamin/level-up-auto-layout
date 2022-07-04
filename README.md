@@ -16,3 +16,7 @@ Improving auto layout through view code
 ## 03.Stack Views
 
 Challenges on this module consisted on recreating the spotify playback option screen made in the fisrt module, but using custom views and stack views to rearrange it, but maintaining the same visual.
+
+## 04.Adaptive layouts
+
+Challenges on this module consisted on adapting the previous screen to be fit on landscape mode.
